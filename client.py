@@ -2,7 +2,8 @@
 import socket
 import wx
 
-ipPort = ("127.0.0.1", 12580)
+ipPort = ("54.147.119.99", 12580)
+# ipPort = ("127.0.0.1", 12580)
 
 class InitPanel(wx.Panel):
     def __init__(self, parent):
